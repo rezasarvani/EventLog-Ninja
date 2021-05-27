@@ -19,3 +19,7 @@ After That .....BOOM..... No More Logs Will Be Inserted Into Windows Event Log
 # Important Note:
 
 I Am NOT RESPONSIBLE For Any Action That You Do With This Tool
+
+# You Ask Again How To Use? :
+
+download the .py file in the repository or .exe version and double click on it! ... wait for 3seconds ... Finish!
