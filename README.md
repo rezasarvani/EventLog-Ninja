@@ -7,12 +7,15 @@ This Powerful Yet Simple Script Will Disable Windows Event Log Without Any Obvio
 Using This Tool You Can Easily  Disable Windows Event Log
 Best For RedTeam Engagements
 
-How To Use? :
+# How To Use? :
+
 Simply Just Run The Script And Magic Will Taking Care Of The Rest... :)
 
-How Does The Magic Works? :
+# How Does The Magic Works? :
+
 This Tool Will Look For Any svchost.exe Process Which Loades The wevtsvc.dll And Then Suspend It!
 After That .....BOOM..... No More Logs Will Be Inserted Into Windows Event Log
 
-Important Note:
+# Important Note:
+
 I Am NOT RESPONSIBLE For Any Action That You Do With This Tool
