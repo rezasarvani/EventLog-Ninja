@@ -5,7 +5,7 @@ This Powerful Yet Simple Script Will Disable Windows Event Log Without Any Obvio
 - No More Clearing Log Commands
 
 Using This Tool You Can Easily  Disable Windows Event Log
-Best For RedTeam Engagements
+ | Best For RedTeam Engagements
 
 # How To Use? :
 
